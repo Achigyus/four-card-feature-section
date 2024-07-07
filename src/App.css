@@ -121,7 +121,7 @@ body{
 
 @media screen and (min-width: 1110px) {
   .four_card_feature_header{
-    margin-block-end: 6.25rem;
+    margin-block-end: 5rem;
   }
 
   .four_card_feature_card_container{
